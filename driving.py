@@ -5,4 +5,8 @@ if courtry == '台灣':
 		print('你可以考駕照')
 	else:
 		print('你還不能考駕照')
-
+elif courtry == '美國':
+	if age >= 16:
+		print('你可以考駕照')
+	else:
+		print('你還不能考駕照')
